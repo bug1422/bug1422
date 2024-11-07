@@ -8,7 +8,6 @@
 
 ### Projects
 <!-- BLOG-POST-LIST:START -->
-<ul><li><a href="https://bug1422.github.io/deploy-github/">My latest project</a></li></ul>
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
